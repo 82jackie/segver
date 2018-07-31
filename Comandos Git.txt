@@ -1,0 +1,29 @@
+Comandos Git
+
+git init
+
+git ls-files
+
+git status
+
+git add index.php
+
+git commit -m "Primeiro commit"
+
+git config user.name "Jaqueline Silva"
+
+git config user.email ""
+
+git config --global
+
+git blame
+
+git log
+
+git log --stat
+
+ git commit --amend --reset-author
+
+ git config --global --edit
+
+git rm --cached
