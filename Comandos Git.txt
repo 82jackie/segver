@@ -27,3 +27,6 @@ git log --stat
  git config --global --edit
 
 git rm --cached
+
+
+git add --all

@@ -13,7 +13,7 @@
 
         <div>
             <h3>Exemplos de soluções para proteção SQL Injection em PHP</h3>
-            <div>
+            <div id= "addslashes">
                 <p><strong><em>Addslashes</em></strong> - <em>Adiciona</em> barras invertidas a uma string</p>
                 <code>
                     <span style="color: blue">string</span> 
